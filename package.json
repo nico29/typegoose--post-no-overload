@@ -1,0 +1,14 @@
+{
+  "name": "typegoose-overload",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@typegoose/typegoose": "^7.4.1",
+    "mongoose": "^5.10.6",
+    "typescript": "^4.0.3"
+  },
+  "devDependencies": {
+    "@types/mongoose": "^5.7.36"
+  }
+}
